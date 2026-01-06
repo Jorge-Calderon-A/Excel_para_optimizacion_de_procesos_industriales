@@ -1,2 +1,2 @@
-# Excel_para_optimizacion_de_procesos_industriales
+# Excel para optimizacion de procesos industriales
 Aplicación de optimización en Excel junto a Solver
